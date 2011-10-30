@@ -1,0 +1,16 @@
+cc816a202e3bbab3ee70e77b9987976a *ChangeLog
+026f05b41643b9426e284becc37db699 *DESCRIPTION
+646bd28aed2e27a5ae7b229f74370d69 *NAMESPACE
+ef068470cca73fa3a18cafb97a900a94 *R/dtm.to.Matrix.R
+74a01ed146037cb5510f5ba6a7558eb3 *R/help.R
+354617f2511fc4c6738080ec02e79c8c *R/regress.text.R
+962dbf66c5c6cf980e0ac399fae5947d *README.md
+ed7405e7c0da7e23f2b4b177ae65df4c *TODO.md
+15314c1a95f12e5a124cabf5bcf0dc0a *TextRegression_0.1-1.tar.gz
+04f2d5395325d8a22fc25f7ac2d54657 *build_script.R
+47c1c0ce56f1faf7b7af0b23629d0883 *build_script.sh
+1e129259bbff304b576c05f2196ebeff *man/TextRegression.Rd
+bbbb7988f2735b95e80bb62f667a4b39 *man/dtm.to.Matrix.Rd
+41cee2eb2c71085b114c4efe2048b240 *man/regress.text.Rd
+8121978f5cacfd774b96ae35271d8134 *tests/1.R
+5357d5a6cb44bea22977c6ca865a398d *upload.sh
